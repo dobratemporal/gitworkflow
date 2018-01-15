@@ -1,0 +1,6 @@
+[user]
+name = "marcelo"
+email  = "teste"
+
+[games]
+name = "Xenogears"
